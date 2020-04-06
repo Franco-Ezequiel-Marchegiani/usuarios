@@ -2,19 +2,19 @@
                     {
                         id:"1",
                         nombre:"Roberto Gomez",
-                        foto: "http://www.irre.abruzzo.it/wp-content/uploads/2015/04/herencia-facebook.jpg"
+                        foto: ""
                         
                     },
                     {
                         id:2,
                         nombre:"Raul Martinez",
-                        foto: "https://pulpfictioncine.com/download/multimedia.normal.80adf7d6cffc7d13.6a6f6a6f2d73746f6e652d6f6365616e2d313138303530362d3132383078305f6e6f726d616c2e6a706567.jpeg"
+                        foto: ""
                       
                     },
                     {
                         id:3,
                         nombre:"Luis Bolañeos",
-                        foto: "https://elcomercio.pe/resizer/R_yynyRO60P--B6Qva_Ez254JXE=/980x528/smart/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/MFDH5VS7RNBKTIY64OQTYTPMQM.jpg"
+                        foto: ""
                         
                     }
                 ]
