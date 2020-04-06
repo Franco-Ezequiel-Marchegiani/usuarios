@@ -2,19 +2,19 @@
                     {
                         id:"1",
                         nombre:"Roberto Gomez",
-                        foto: "../img/perfil1.jpg"
+                        foto: "http://www.irre.abruzzo.it/wp-content/uploads/2015/04/herencia-facebook.jpg"
                         
                     },
                     {
                         id:2,
                         nombre:"Raul Martinez",
-                        foto: "../img/perfil2.jpg"
+                        foto: "file:///C:/Users/Peje/Desktop/Facultad/imagenes/perfil3.jpg"
                       
                     },
                     {
                         id:3,
                         nombre:"Luis Bolañeos",
-                        foto: "../img/perfil3.jpg"
+                        foto: "file:///C:/Users/Peje/Desktop/Facultad/imagenes/icono.png"
                         
                     }
                 ]
